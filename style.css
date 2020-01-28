@@ -1,7 +1,3 @@
-/* font-family: 'Abel', sans-serif;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Patua One', cursive; */
-
 *{
     margin: 0;
     padding: 0;
@@ -92,5 +88,4 @@ button>a{
     color: green;
     position: relative;
     top: 120px;
-
 }
